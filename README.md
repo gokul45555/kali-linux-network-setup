@@ -29,7 +29,7 @@ Network Interface	eth0
  Activated the wired connection
  Verified internet connectivity using ping google.com
  Created a VirtualBox snapshot named week1-Setup-Complete
-📸 Screenshots
+
 1. Checking Network Interfaces
 Checking network interfaces
 
